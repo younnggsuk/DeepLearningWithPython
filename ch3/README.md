@@ -1,4 +1,4 @@
-# 3. 신경망 시작하기
+## 3. 신경망 시작하기
 
 - [3.1 신경망의 구조](./3_1_nerual_network.ipynb)
 - [3.2 케라스 소개](./3_2_introduction_of_keras.ipynb)
