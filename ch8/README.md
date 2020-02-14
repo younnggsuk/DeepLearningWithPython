@@ -2,3 +2,4 @@
 
 - [8.1 LSTM으로 텍스트 생성하기](./8_1_text_generation_with_LSTM.ipynb)
 - [8.2 딥드림](./8_2_deepdream.ipynb)
+- [8.3 뉴럴 스타일 트랜스퍼](./8_3_neural_style_transfer.ipynb)
